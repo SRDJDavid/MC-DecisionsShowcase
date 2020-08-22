@@ -3,6 +3,8 @@ This displays Decisions and how it may be applied in this survey that asks users
 
 This was built in Decisions 6.9.2.
 
+When you import the entire zip to your Decisions instance, it will create a root folder named "Mortgage Connect | SDavid Showcase". Here, you can navigate to Flows and find the Flow_mobileSurvey which is, and tagged, the main flow. 
+
 Flow will ask the user their name, email, type of mobile device, and age. Validation and visibilty rules were used to confirm each entry was valid. 
 
 Requirements and functionality pasted below. 
